@@ -29,12 +29,12 @@ Accept: application/json
 You should also implement a feature that allows someone to search.
 
 ```
-> Response
+> Request
 GET /news?query=bitcoin   HTTP/1.1
 Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ
 Accept: application/json
 
-> Request
+> Response
 [
   {
     "headline": "IRS goes after cryptocurrency owners for unpaid taxes",
