@@ -61,7 +61,7 @@ You have to return the three fields that are in the sample requests above! You c
 This needs to be a running Python application on your localhost that serves an HTTP request not a console application.
 
 ### Submission
-You should upload your code to a Github repository (private or public) and share it with me within 4 days (or 96 hours) of receiving this email. Your repository should have a README.md that explains how to run the code and if you’ve done anything extra. If you fail to produce this repository within the mentioned time period your application will be rejected.
+You should upload your code to a Github repository (private or public) and share it with me. Your repository should have a README.md that explains how to run the code and if you’ve done anything extra. If you fail to produce this repository within the time period mentioned in the email you received your application will be rejected.
 
 ### Assessment
 This assignment is meant to test:
