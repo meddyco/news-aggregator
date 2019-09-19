@@ -54,7 +54,7 @@ Accept: application/json
 The application that you submit must have thoughtful design decisions, well documented and unit tested code. This assignment should not take more than 5 hours to complete.
 
 ### Constraints
-You have to use **Python**, however, you can use any framework or library you're most comfortable with.
+You have to use **Python**, you can use **ANY** framework or library you're most comfortable with. You **DON'T** have to use Django.
 
 You have to return the three fields that are in the sample requests above! You can add more fields if you'd like.
 
